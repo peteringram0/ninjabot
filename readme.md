@@ -1,6 +1,11 @@
 # SVG Animation example
 
-npm install
-gulp build
+# Setup
+* npm install
+* gulp build
 
-git subtree push --prefix dist origin gh-pages
+# Publish
+* git subtree push --prefix dist origin gh-pages
+
+# Demo
+http://peteringram0.github.io/ninjabot/
